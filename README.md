@@ -1,1 +1,1 @@
-# GIt_Branch_Updater
+# Git_Branch_Updater
